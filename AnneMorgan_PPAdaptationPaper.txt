@@ -1,0 +1,86 @@
+Adapting "The Open Source Way": The Journal of Open Hardware
+============================================================
+
+Anne Morgan
+
+School of Information, University of Texas at Austin
+
+Peer Production
+
+Dr. James Howison
+
+March 14, 2021
+
+Note: Citations use APA style.
+
+Adapting "The Open Source Way": The Journal of Open Hardware
+------------------------------------------------------------
+
+Introduction
+------------
+
+The Journal of Open Hardware, published by Ubiquity Press, is a peer reviewed open access journal dedicated to open hardware research and development ("About," n.d.). The journal, created in 2017, reviews both hardware documentation and manuscripts, with the goal of disseminating open hardware projects that are both replicable and modifiable (S. Dosemagen, personal communication, February 23, 2021; "About," n.d.). This paper analyzes the ways in which the Journal of Open Hardware is inspired by peer production. Closely related to the concepts of "open collaboration" and "the open source way," peer production is classically modeled by free (libre) and open source software (FLOSS) development projects, such as Linux and Apache, as well as the free online encyclopedia Wikipedia (Levine & Prietula, 2013, p. 1; Howison & Crowston, 2014, p. 30). I examine governance structure; licensing; and motivations in relation to the Journal of Open Hardware's adaptation of "the open source way." An interview conducted with Shannon Dosemagen, Editor-in-Chief of the Journal of Open Hardware, provides valuable insights regarding the journal's efforts from the perspective of a participant. Besides her work with the Journal of Open Hardware, Dosemagen has participated in several peer production projects related to open data and open source hardware. For example, she is a member of the Open Environmental Data Project; co-founder of Public Lab, a non-profit organization providing community-based, open source environmental research; and steward of the Gathering for Open Science Hardware (GOSH) ("About Shannon," n.d.). For this reason, Dosemagen is a suitable interview subject for this paper. This paper also draws from the literature on peer production, open access publishing, and open source hardware in order to explore the continuities and discontinuities between a specific open hardware effort (the Journal of Open Hardware) and classic peer production models.
+
+Peer Production, Open Access Publishing, and Open Hardware
+----------------------------------------------------------
+
+According to Benkler, "commons-based" peer production is a nonproprietary, decentralized, and self-organized mode of production, controlled by neither market signals nor managerial dictates (2002, pp. 375-376). Levine & Prietula (2013) describe open collaboration as "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike" (p. 3). Open access publishing can be considered "part of a larger Web-enabled phenomenon of peer production, user-generated content, and open-source development" (Bjork & Hedlund, 2009). Indeed, open access publishing shares some important characteristics with FLOSS development and other classic models of peer production. For instance, Benkler observes that in academic research, information producers can "produce on a nonproprietary basis and contribute their product to a knowledge 'commons' that no one is understood as 'owning,' and that anyone can, indeed is required by professional norms to, take and extend" (2002, pp. 381-382). The creation of a knowledge commons, achieved by the removal of price and permission barriers (Suber, 2006, p. 171), is a feature of both open access publishing and peer production. 
+
+Likewise, as a "forum" for open source hardware research and development, the Journal of Open Hardware represents an adaptation of classic FLOSS peer production models (Murillo & Wenzel, 2017, p. 1). The Journal of Open Hardware uses the Open Source Hardware Association (OSHWA) definition of open source hardware: "tangible artifacts — machines, devices, or other physical things — whose design has been released to the public in such a way that anyone can make, modify, distribute, and use those things" (S. Dosemagen, personal communication, February 23, 2021; "Definition (English)," n.d.). Indicating the influence of FLOSS models, OSHWA's definition is based on the Open Source Definition of open source software; however, the OSHWA definition notes that, unlike open source software, open source hardware requires the commitment of physical resources to the creation of physical goods ("Definition (English)," n.d.). In particular, the Journal of Open Hardware's licensing and motivations, discussed below, illustrate the journal's reliance on FLOSS models. The Journal of Open Hardware exemplifies the similarities and differences between open access publishing and classic models of peer production. 
+
+Governance Structure
+--------------------
+
+The governance structure used by the Journal of Open Hardware is not fully decentralized and is characterized by some elements of hierarchy. Governance and management are not linked to property and contract, due to the open licenses used by the journal, a characteristic shared with peer production (Benkler, 2017, p. 265). Participants are not assigned specific topics to work on and are, in theory, free to choose to work on hardware projects that interest them. However, participants must adhere to the journal's criteria for submissions if they wish to publish their work in the journal, constraining the scope of their potential collaborations; the Editorial Board ultimately decides which articles will be published by the journal ("Submissions," n.d.). The variety of projects available to potential participants, then, is not "unbounded," as in a classic peer production model (Benkler, 2002, p. 415). Members of the Editorial Board essentially serve as coordinators or facilitators; their role is not to assign projects or resources, but to enable participants to share the final products of their labor. Accordingly, some of Dosemagen's recent activities in her capacity as Editor-in-Chief include working towards getting the journal indexed for the first time (accomplished), as well as helping coordinate editing and communicating with authors (S. Dosemagen, personal communication, February 23, 2021). 
+
+Dosemagen indicates that participants are not limited to academics; while most members of the Editorial Board have "at least a foot in academia," Dosemagen herself is not an academic (S. Dosemagen, personal communication, February 23, 2021). Peer review of articles typically involves two to five reviewers, ranging "from tech developers, to scientists...[to] community educators, for instance" (S. Dosemagen, personal communication, February 23, 2021). The journal's website describes these reviewers as "experts/scientists close to the field of the publication" ("Editorial Policies," n.d.). This formal peer review process provides a major source of feedback for participants.
+
+Additionally, the journal's editors describe the journal as "primarily an academic forum," but note that this forum is meant to be "inclusive," allowing for the participation of hardware engineers, designers, and users (Murillo & Wenzel, 2017, p. 1). However, the journal's Author Processing Charge (APC) of $400.00 (which can be discounted or waived in cases of financial exigency) may limit participation to what Benkler terms "professional information producers": individuals sustained by external funds, such as academic salaries, who can afford to contribute the time and money needed for projects ("Submissions," n.d.; Benkler, 2002, p. 382).
+
+By contrast, Shah (2006) describes how hobbyists are key participants in open source software development; initial need-driven participation may evolve, over time, into hobbyist participation (pp. 1001-1002). Shah notes that hobbyists "choose their own tasks and set their own schedules," preserving a high degree of independence (2006, p. 1007). Additionally, Howison & Crowston (2014) describe how participants in open source software development collaborate through superposition, spontaneously completing short, independent tasks and superimposing layers of work onto one another (p. 38). The Journal of Open Hardware's governance structure seems unlikely to facilitate either independent hobbyist participation or superimposed layers of work, as exhibited by classic FLOSS models or Wikipedia. For example, in the case of Wikipedia, participants can engage in a wide variety of different self-organized projects, including editing, discussing proposed changes, and writing original content; the number of potential projects and participants is high, and "peer review" of another's work can be performed by anyone. The potential barriers to participation are low, and there is no charge for authors seeking to write a Wikipedia article.
+
+Licensing
+---------
+
+Licensing is part of the Journal of Open Hardware's underlying philosophy of openness and provides a better opportunity to examine the influence of peer production models. Articles published in the Journal of Open Hardware are licensed with a Creative Commons Attribution 4.0 International license (CC BY 4.0), meaning that publications can be freely shared and adapted ("About," n.d.). The journal further specifies that submissions must comply with the OSHWA definition of open source hardware, which requires that "source files must be under an open hardware compatible license that permits others to study, modify, distribute, make, and sell your hardware," and prescribes the application of reciprocal or permissive licenses in order to meet the OSHWA definition; these include hardware-specific licenses from CERN and TAPR (reciprocal) and the Solderpad license (permissive) ("Submissions," n.d.). By removing price and permission barriers, the journal enables the creation of a knowledge commons, where knowledge can be freely shared and built upon by participants and non-participants alike. Ultimately, the Journal of Open Hardware's licensing contributes towards what it terms "virtuous circuits of exchange," in line with the journal's efforts to create an inclusive "forum" for the broader open hardware community ("About," n.d.). 
+
+Motivations
+-----------
+
+Like the journal's licensing, participant motivations demonstrate features shared with peer production. The Journal of Open Hardware's website states: "as editors and contributors, we are committed to the principles of libre technologies, such as Free Software, open gateware, wetware, materials and hardware" ("About," n.d.). This suggests editors and contributors are motivated by a particular ideology to perform their work. Moreover, Dosemagen's interview responses suggest ideological participant motivations. For example, Dosemagen states: "I've just been very committed, I think, predominantly to the philosophy of what it means to work in [an] open fashion" (S. Dosemagen, personal communication, February 23, 2021). Over a period of about twelve or thirteen years, Dosemagen has chosen to focus her work on open data and open source hardware; her position at the Journal of Open Hardware represents a continuation of these efforts (S. Dosemagen, personal communication, February 23, 2021). Speaking about why she believes open source hardware is important, Dosemagen explains that "in my line of work, the biggest benefit is that we can see the power of collaboration and see...what we can actually do and achieve in science when we put aside, you know, proprietary licenses, and work collectively to build upon previous work and achieve [the] goals of scientific communities" (S. Dosemagen, personal communication, February 23, 2021). Dosemagen also refers to the Journal of Open Hardware's fifteen-part series of blog posts on Medium, which argues that open source hardware needs public policy attention (S. Dosemagen, personal communication, February 23, 2021). Overall, then, it appears that a shared philosophy and identification with a collective are strong motivations for Dosemagen, as well as other editors and contributors to the journal. Regarding Dosemagen, this tracks with the findings of Crowston & Fagnot (2018), who describe the motivations of Wikipedia "meta-contributors" (contributors who "structure and enable further contributions rather than directly adding to the project’s output") (p. 91). According to their analysis, meta-contributors tend to be motivated by ideology and group identification (Crowston & Fagnot, pp. 96-97). More broadly, as Benkler (2017) notes, social motivations are cental to peer production efforts (p. 271).
+
+Conclusion
+----------
+
+The Journal of Open Hardware differs from FLOSS development projects and other classic models of peer production, most notably in its governance structure; barriers to participation are generally higher than in FLOSS development, and participants are constrained by the Editorial Board's criteria for submissions. However, there are also a number of similarities between the Journal of Open Hardware and classic peer production models. The journal's contributions to a knowledge commons via licensing, and participant motivations, are clearly inspired by the principles of open collaboration identified by Levine & Prietula (2013, p. 2). The journal removes price and permission barriers in order to facilitate open access to hardware research and designs, encouraging others to share and adapt the hardware. Similarly, the motivations for participating in the Journal of Open Hardware's efforts mirror the motivations for participating in classic models of peer production; these motivations are primarily ideological and centered on identification with a collective. In terms of Benkler's definition of commons-based peer production, the Journal of Open Hardware enables nonproprietary and self-organized production, but is not decentralized to the same extent as classic peer production models. 
+
+References
+----------
+
+"About." n.d. Journal of Open Hardware. Retrieved March 13, 2021, from https://openhardware.metajnl.com/about/
+
+"About Shannon." n.d. Shannon Dosemagen. Retrieved March 13, 2021, from https://www.shannondosemagen.com/about
+
+Benkler, Y. (2002). Coase’s penguin, or, Linux and “the nature of the firm.” Yale Law Journal, 112(3), 369–446. https://doi.org/10.2307/1562247
+
+Benkler, Y. (2017). Peer production, the commons, and the future of the firm. Strategic Organization, 15(2), 264–274. https://doi.org/10.1177/1476127016652606
+
+Björk, B., & Hedlund, T. (2009). Two scenarios for how scholarly publishers could change their business model to open access. Journal of Electronic Publishing, 12(1). https://doi.org/10.3998/3336451.0012.102
+
+Crowston, K., & Fagnot, I. (2018). Stages of motivation for contributing user-generated content: A theory and empirical test. International Journal of Human-Computer Studies, 109, 89–101. https://doi.org/10.1016/j.ijhcs.2017.08.005
+
+"Definition (English)." n.d. Open Source Hardware Association. Restrieved March 13, 2021, from https://www.oshwa.org/definition/#:~:text=Open%20source%20hardware%20is%20hardware,for%20making%20modifications%20to%20it
+
+"Editorial Policies." n.d. Journal of Open Hardware. Retrieved March 14, 2021, from https://openhardware.metajnl.com/about/editorialpolicies/
+
+Howison, J., & Crowston, K. (2014). Collaboration through open superposition: A theory of the open source way. MIS Quarterly, 38(1), 29–50.
+
+Levine, S. S., & Prietula, M. J. (2013). Open collaboration for innovation: Principles and performance. Organization Science, 25(5), 1414–1433.
+
+Murillo, L. F. R., & Wenzel, T. (2017). Welcome to the Journal of Open Hardware. Journal of Open Hardware, 1(1), 1. http://doi.org/10.5334/joh.3
+
+Shah, S. (2006). Motivation, governance, and the viability of hybrid forms in open source software development. Management Science, 52(7), 1000–1014. https://doi.org/10.1287/mnsc.1060.0553
+
+Suber, P. (2006). Creating an intellectual commons through open access. In C. Hess & E. Ostrom (Eds.), Understanding knowledge as a commons: From theory to practice (pp. 171-208). MIT Press.
+
+"Submissions." n.d. Journal of Open Hardware. Retrieved March 13, 2021, from https://openhardware.metajnl.com/about/submissions/
