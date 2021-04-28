@@ -1,6 +1,6 @@
 ---
 title: "PP Participation Project: Experience Report"
-output: html_document
+output: pdf_document
 bibliography: cite.bib
 ---
 
