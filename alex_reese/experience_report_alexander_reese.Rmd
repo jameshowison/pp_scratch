@@ -2,9 +2,8 @@
 title: "PP Experience Report"
 author: "Alexander Reese"
 date: "5/3/2021"
-output: 
-  html_document:
-    theme: cerulean
+output: pdf_document
+linkcolor: blue
 bibliography: bibliography.bib
 csl: apa-7th-edition.csl
 ---
@@ -14,7 +13,7 @@ Peer Production -- INF 385T
 Professor James Howison
 
 
-The first step in contributing to the Standard Ebooks (SE) project involved messaging the mailing list with a "First project" proposal. I had originally planned starting with W. E. B. DuBois' *The Souls of Black Folks,* but after perusing the Manual of Style and some pages scans of an early editions, I realized it was a long text that contained a lot of semantic complexity -- poems, music, and illustrations that I would need to render as vector graphics. For these reasons, it also stood a good chance of getting rejected as a first project by community leadership. Not wanting to rock the boat or bite off more than I could chew, I turned to a much shorter and less complex novel, Willa Cather's *O Pioneers!* As part of my project proposal, to the mailing list, I identified a transcription created by [Project Gutenberg](https://www.gutenberg.org/ebooks/24) and Public Domain scans of a first 1913 edition at the [HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015005089597) that I would reference when proofreading and marking up the text.
+The first step in contributing to the Standard Ebooks (SE) project involved messaging the mailing list with a "First project" proposal. In my community identification assignment, I had originally planned to work with W. E. B. DuBois' *The Souls of Black Folks,* but after perusing the Manual of Style and some pages scans of an early editions, I realized it was a long text that contained a lot of semantic complexity -- poems, music, and illustrations that I would need to render as vector graphics. For these reasons, it also stood a good chance of getting rejected as a first project by community leadership. Not wanting to rock the boat or bite off more than I could chew, I turned to a much shorter and less complex novel, Willa Cather's *O Pioneers!* As part of my project proposal, to the mailing list, I identified a transcription created by [Project Gutenberg](https://www.gutenberg.org/ebooks/24) and Public Domain scans of a first 1913 edition at the [HathiTrust](https://babel.hathitrust.org/cgi/pt?id=mdp.39015005089597) that I would reference when proofreading and marking up the text.
 
 Even drafting my very short proposal email, I anxiously referred to other "First project" messages on the mailing list and read through replies from the editor-in-chief to know how to frame my proposal and what kind of replies to expect or avoid. The project was readily approved by the editor-in-chief, who sent a boilerplate response linked me to documentation and new contributor resources. However, he also included several formatting tips and considerations specific to my book project which gave the response a personal touch and made me feel supported and engaged with. And importantly, he encouraged me to reach out frequently with questions.
 
