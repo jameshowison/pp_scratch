@@ -2,7 +2,9 @@
 title: "PP Experience Report"
 author: "Alexander Reese"
 date: "5/3/2021"
-output: html_document
+output: 
+  html_document:
+    theme: cerulean
 bibliography: bibliography.bib
 csl: apa-7th-edition.csl
 ---
