@@ -6,10 +6,6 @@ bibliography: bibliography.json
 csl: apa.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Anne Morgan
 
 School of Information, University of Texas at Austin
