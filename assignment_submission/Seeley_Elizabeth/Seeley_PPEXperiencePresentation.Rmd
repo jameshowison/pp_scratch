@@ -1,0 +1,73 @@
+---
+title: "Peer Production within Austin Covaid"
+author: "Liz Seeley"
+date: "4/28/2021"
+output:
+  slidy_presentation:
+    theme: cosmo
+    fonttheme: cosmo
+    duration: 8
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Participating in Austin Covaid
+
+- Austin Covaid is a mutual aid organization in Austin that uses a FOSS platform called Covaid to connect volunteers to those in need.  
+    - Mutual aid organizations, by definition, are autonomous, non-hierarchical groups of community members who directly help other community members in various ways.  
+    - Typical activities include redistributing money or goods to those in need, purchasing and delivering groceries, prescriptions, etc., picking someone up and driving them to an appointment, and other miscellaneous activities.
+- Austin Covaid contains three user groups: requesters, coordinators, and volunteers.  
+    - **Requesters** make a request through the Austin Covaid portal describing what they need help with.  
+    - **Coordinators** assign the request to a volunteer. Coordinators complete their tasks during an all-day shift once a week; they also act as leaders of the organization.  
+    - **Volunteers** accept and fulfill the request.  
+
+## Emergency Participation during the Winter Storm (Initial Contribution Stage) 
+
+- Due to volume of requests (which have to be matched manually to each volunteer), Covaid platform was temporarily abandoned. Coordinators added all interested volunteers to a Signal chat, sent a link to a Google sheet, and allowed volunteers to pick which tasks they wanted to do.  
+- When there are more participants in a peer production project (in this case you have to keep in mind all user groups are participants), there are more tasks to fulfill, but more tasks require more coordination. (Siefkes, 2007)  
+    - Given that there were only 6 coordinators, 127 volunteers, and countless requests, this quickly devolved into chaos...  
+    - Solution: Coordinators let volunteers coordinate themselves.  
+- Because of the intense need that occured during the storm and the ease of choosing which requests to fulfill, I felt the most motivation to participate during this time.  
+    - Initial contributors are often motivated to participate in peer production when barriers to participate are low, a.k.a. when it's simple and easy to contibute. (Crowston & Fagnot, 2018)
+
+## Regular Participation during the Rest of the Semester (Sustained? Contribution Stage)  {.bigger}
+- Not a lot of feedback, less intrinsic motivation.  
+    - No way to communicate with anyone within the platform itself, which felt like a lack of feedback and a lack of community building. Sometimes it felt like my contributions weren't noticed.  
+    - Feedback and intrinsic motivation drive Sustained Contributors. (Crowston & Fagnot, 2018) If I wasn't feeling this, what was I?  
+
+## Only Participating as a Volunteer, Explained through Task Auctioning {.bigger}
+
+- **Task auctioning:** When it requires more of a commitment to do a more desirable task than to do a less desirable one. (Siefkes, 2007)  
+    - For example, would you rather take the garbage out once a week or put away the dishes every single night?  
+- I did not have, or want to have, the level of need necessary for me to feel like I could make a request.  
+- Coordinator role required a level of commitment (in the form of time and emotional investment) I did not necessarily want/wasn't able to give.  
+
+## Review of Work
+
+- As mentioned before, not a lot of (virtual) feedback due to lack of communication features within the Covaid platform. No formal processes have been instituted within the platform or the organization.  
+- **Requesters:** Digital coordinators review and edit the requests for clarity before assigning them to a volunteer, but the requesters do not see these edits.  
+- **Volunteers:** Seems to occur when volunteers fail to accept and fulfill a request that they were assigned.  
+    - During one busy weekend, I made this mistake, leaving the request in my queue. For a couple of weeks after, I noticed I was no longer being assigned requests by coordinators, assumedly because I had failed to fulfill the one in my queue, even though that request had been reassigned to someone else. I was only able to fix this by directly contacting a coordinator within the organization and clarifying my interest in continuing to participate.   
+- **Coordinators:** ???
+    - Obviously, participants can try to contact the coordinators and directly complain, but it's more or less asking to speak to the manager about the manager. (Requires a pretty intense honor code and level of reflexivity for changes to actually happen/work to be 'reviewed.') 
+    - There are leadership meetings between the coordinators, where they discuss problems within the organization and offer solutions.  
+    - I think this system is really risky, non-transparent, and perpetuates bias because of homophily.
+
+## Homophily within the Coordinators {.bigger}
+- Homophily: People are more likely to connect with people they are similar to. (M. McPherson et al., 2001)    
+- Coordinators are all queer graduate students or young professionals in their mid to late twenties.  
+    - Homophily breeds homophily. The educational and age homophily within the governing participant group could lead to behavioral homophily, inducing a lack of diversity in terms of perspectives and uniform decision-making. (M. McPherson et al., 2001)   
+    - Risks include major lack of diverse perspectives and motivations within the community, ineffective review of work, etc.
+
+## Expectations vs. Reality {.bigger}
+
+- Is Austin Covaid actually non-hierarchical if the coordinators are the only ones making decisions? Is Austin Covaid actually transparent if the coordinators are the only people invited to the leadership meetings?  
+    - I think the intentional simplicity of the system in terms of requiring little commitment and a sense of anonymity for both requesters and volunteers means that hierarchy and a lack of transparency are inherently a risk. I learned that decentralized does NOT mean non-hierarchical. 
+- I thought that joining a smaller, less established peer production community would mean it would be easier to get to know the entire organization. While I think this was sort of achieved, I'm still not completely satisfied. 
+- A question I'm still considering:  
+    - What impact does the hybrid online/in-person dynamic have on peer production?  
+
+
+

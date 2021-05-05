@@ -1,0 +1,348 @@
+[
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/WRPYWIL2",
+		"type": "personal_communication",
+		"title": "Conversation regarding split between Austin COVAID and Austin Mutual Aid",
+		"author": [
+			{
+				"family": "Hallam",
+				"given": "Jess"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/789JT9DD",
+		"type": "chapter",
+		"container-title": "Handbook on the Economics of the Internet",
+		"event-place": "Cheltenham and Northampton",
+		"ISBN": "978-0-85793-985-2",
+		"language": "en",
+		"note": "DOI: 10.4337/9780857939852",
+		"publisher": "Edward Elgar Publishing",
+		"publisher-place": "Cheltenham and Northampton",
+		"source": "DOI.org (Crossref)",
+		"title": "Peer Production and Cooperation",
+		"URL": "http://www.elgaronline.com/view/9780857939845.xml",
+		"editor": [
+			{
+				"family": "Bauer",
+				"given": "Johannes"
+			},
+			{
+				"family": "Latzer",
+				"given": "Michael"
+			}
+		],
+		"author": [
+			{
+				"family": "Benkler",
+				"given": "Yochai"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/ZH4BABZ4",
+		"type": "article-journal",
+		"container-title": "Journal of Political Philosophy",
+		"DOI": "10.1111/j.1467-9760.2006.00235.x",
+		"ISSN": "0963-8016, 1467-9760",
+		"issue": "4",
+		"journalAbbreviation": "J Political Philosophy",
+		"language": "en",
+		"page": "394-419",
+		"source": "DOI.org (Crossref)",
+		"title": "Commons-based Peer Production and Virtue",
+		"URL": "http://doi.wiley.com/10.1111/j.1467-9760.2006.00235.x",
+		"volume": "14",
+		"author": [
+			{
+				"family": "Benkler",
+				"given": "Yochai"
+			},
+			{
+				"family": "Nissenbaum",
+				"given": "Helen"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					12
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2006",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/9G7NC5HT",
+		"type": "interview",
+		"language": "English",
+		"medium": ".mp4",
+		"title": "Interview on Austin Covaid as an Adaptation of Peer Production",
+		"author": [
+			{
+				"family": "Hallam",
+				"given": "Jess"
+			}
+		],
+		"interviewer": [
+			{
+				"family": "Seeley",
+				"given": "Elizabeth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/2QDXD6X5",
+		"type": "paper-conference",
+		"event": "INF 385T Peer Production",
+		"event-place": "Austin, Texas",
+		"page": "2",
+		"publisher": "University of Texas at Austin, School of Information",
+		"publisher-place": "Austin, Texas",
+		"title": "Peer Production Community Identification - Austin Covaid",
+		"author": [
+			{
+				"family": "Seeley",
+				"given": "Elizabeth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/LGDW6M8C",
+		"type": "paper-conference",
+		"event": "INF 385T Peer Production",
+		"event-place": "Austin, Texas",
+		"page": "8",
+		"publisher": "University of Texas at Austin, School of Information",
+		"publisher-place": "Austin, Texas",
+		"title": "Co-Creation within Radical Acts of Care:  Exploring the Intersections between Mutual Aid and Peer Production",
+		"author": [
+			{
+				"family": "Seeley",
+				"given": "Elizabeth"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					3,
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/Q3G6LJS9",
+		"type": "book",
+		"edition": "Version 1.01",
+		"event-place": "Berlin",
+		"ISBN": "978-3-940736-00-0",
+		"language": "en",
+		"note": "OCLC: 198815779",
+		"number-of-pages": "154",
+		"publisher": "Ed. Siefkes",
+		"publisher-place": "Berlin",
+		"source": "Gemeinsamer Bibliotheksverbund ISBN",
+		"title": "From exchange to contributions: generalizing peer production into the physical world",
+		"title-short": "From exchange to contributions",
+		"author": [
+			{
+				"family": "Siefkes",
+				"given": "Christian"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2007"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/33E6L9TA",
+		"type": "article-journal",
+		"container-title": "Annual Review of Sociology",
+		"DOI": "10.1146/annurev.soc.27.1.415",
+		"ISSN": "0360-0572, 1545-2115",
+		"issue": "1",
+		"journalAbbreviation": "Annu. Rev. Sociol.",
+		"language": "en",
+		"page": "415-444",
+		"source": "DOI.org (Crossref)",
+		"title": "Birds of a Feather: Homophily in Social Networks",
+		"title-short": "Birds of a Feather",
+		"URL": "http://www.annualreviews.org/doi/10.1146/annurev.soc.27.1.415",
+		"volume": "27",
+		"author": [
+			{
+				"family": "McPherson",
+				"given": "Miller"
+			},
+			{
+				"family": "Smith-Lovin",
+				"given": "Lynn"
+			},
+			{
+				"family": "Cook",
+				"given": "James M"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2001",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/T373CFVU",
+		"type": "article-journal",
+		"container-title": "American Sociological Review",
+		"DOI": "10.2307/2095356",
+		"ISSN": "00031224",
+		"issue": "3",
+		"journalAbbreviation": "American Sociological Review",
+		"language": "en",
+		"page": "370",
+		"source": "DOI.org (Crossref)",
+		"title": "Homophily in Voluntary Organizations: Status Distance and the Composition of Face-to-Face Groups",
+		"title-short": "Homophily in Voluntary Organizations",
+		"URL": "http://www.jstor.org/stable/2095356?origin=crossref",
+		"volume": "52",
+		"author": [
+			{
+				"family": "McPherson",
+				"given": "J. Miller"
+			},
+			{
+				"family": "Smith-Lovin",
+				"given": "Lynn"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1987",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/imQBT0Mt/items/9JTNJFNQ",
+		"type": "article-journal",
+		"container-title": "International Journal of Human-Computer Studies",
+		"DOI": "10.1016/j.ijhcs.2017.08.005",
+		"ISSN": "10715819",
+		"journalAbbreviation": "International Journal of Human-Computer Studies",
+		"language": "en",
+		"page": "89-101",
+		"source": "DOI.org (Crossref)",
+		"title": "Stages of motivation for contributing user-generated content: A theory and empirical test",
+		"title-short": "Stages of motivation for contributing user-generated content",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S107158191730126X",
+		"volume": "109",
+		"author": [
+			{
+				"family": "Crowston",
+				"given": "Kevin"
+			},
+			{
+				"family": "Fagnot",
+				"given": "Isabelle"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					1
+				]
+			]
+		}
+	}
+]
