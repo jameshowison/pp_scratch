@@ -1,0 +1,35 @@
+---
+title: 'Peer Production Participation Project: WikiProject Geology'
+author: "Anne Morgan"
+date: "5/6/2021"
+output: ioslides_presentation
+---
+
+## WikiProject Geology
+
+- Dedicated to improving coverage of geology-related articles
+
+- GRA at Walter Geology Library
+
+- UT Libraries resources
+
+## Visual Editor
+
+![](images/visualeditor.PNG)
+
+## Edits
+
+![](images/topeditedpages.PNG)
+
+## Reviewing Work
+
+- "Be bold"
+
+- Difficult to get direct feedback
+
+## Motivations and Time
+
+- Fun, ideology, course requirements
+
+- Higher participation than if initial contributions made outside class
+
