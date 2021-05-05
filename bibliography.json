@@ -1,0 +1,168 @@
+[
+	{
+		"id": "http://zotero.org/users/local/EZdJKrZL/items/S2SKN2CS",
+		"type": "paper-conference",
+		"abstract": "As Wikipedia has become an indispensable source of online information, concerns about who writes, edits, and maintains it have come to the forefront. In particular, the 2010 UNU-MERIT survey found evidence of a significant gender skew: fewer than 13% of Wikipedia contributors are women. However, the number of contributors is just one way to examine gender differences in contribution. In this paper we take a more fine-grained perspective by examining how much and what types of Wiki-work men and women tend to do. First, we find that the so-called \"Gender Gap\" in number of editors may not be as wide as prior studies have suggested. Second, although more than 80% of editors in our sample were men, among the bottom 75% of editors by activity-level, we find that men and women made similar numbers of revisions. However, among the most active Wikipedians men tended to make many more revisions than women. Finally, we find that the most active women in our sample tended to make larger revisions than the most active men. We conclude by discussing directions for future research.",
+		"collection-title": "WikiSym '11",
+		"container-title": "Proceedings of the 7th International Symposium on Wikis and Open Collaboration",
+		"DOI": "10.1145/2038558.2038561",
+		"event-place": "New York, NY, USA",
+		"ISBN": "978-1-4503-0909-7",
+		"page": "11–14",
+		"publisher": "Association for Computing Machinery",
+		"publisher-place": "New York, NY, USA",
+		"source": "ACM Digital Library",
+		"title": "Gender differences in Wikipedia editing",
+		"URL": "https://doi.org/10.1145/2038558.2038561",
+		"author": [
+			{
+				"family": "Antin",
+				"given": "Judd"
+			},
+			{
+				"family": "Yee",
+				"given": "Raymond"
+			},
+			{
+				"family": "Cheshire",
+				"given": "Coye"
+			},
+			{
+				"family": "Nov",
+				"given": "Oded"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					10,
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/EZdJKrZL/items/3IKEZI3A",
+		"type": "article-journal",
+		"abstract": "In order to increase and enhance user-generated content contributions, it is important to understand the factors that lead people to freely share their time and knowledge with others.",
+		"container-title": "Communications of the ACM",
+		"DOI": "10.1145/1297797.1297798",
+		"ISSN": "0001-0782",
+		"issue": "11",
+		"journalAbbreviation": "Commun. ACM",
+		"page": "60–64",
+		"source": "November 2007",
+		"title": "What motivates Wikipedians?",
+		"URL": "https://doi.org/10.1145/1297797.1297798",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Nov",
+				"given": "Oded"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2007",
+					11,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/EZdJKrZL/items/525CG5NC",
+		"type": "entry-encyclopedia",
+		"abstract": "Be bold can be explained in three words: \"Go for it.\" The Wikipedia community encourages users to be bold when updating the encyclopedia. Wikis like ours develop faster when everybody helps to fix problems, correct grammar, add facts, make sure wording is accurate, etc. We would like everyone to be bold and help make Wikipedia a better encyclopedia. How many times have you read something and thought—Why doesn't this page have correct spelling, proper grammar, or a better layout? Wikipedia not only lets you add and edit articles: it wants you to do it. This does require politeness, but it works. You'll see. Of course, others here will edit what you write. Do not take it personally! They, like all of us, just wish to make Wikipedia as good an encyclopedia as it can possibly be. Also, when you see a conflict in a talk page, do not be just a \"mute spectator\"; be bold and drop your opinion there!\nFix it yourself instead of just talking about it. If you notice an unambiguous error or problem that any reasonable person would recommend fixing, the best course of action may be to be bold and fix it yourself rather than bringing it to someone's attention in the form of a comment or complaint. In the time it takes to write about the problem, you could instead improve the encyclopedia.\nDo not be upset if your bold edits get reverted. Francis Bacon, an early advocate of trial and error followed by observation to gain knowledge, once said: \"Great boldness is seldom without some absurdity.\" Instead of getting upset, read Wikipedia:Assume good faith and Wikipedia:Civility. After the reversion of your bold edit, you might want to be bold in an edit on the talk pages so as to not start an edit war; see Wikipedia:BOLD, revert, discuss cycle for more. On some of the less-prominent articles on Wikipedia that have a lower editing rate, your bold edit might not be responded to immediately. Think about it this way: if you don't find one of your edits being reverted now and then, perhaps you're not being bold enough.",
+		"container-title": "Wikipedia",
+		"language": "en",
+		"note": "Page Version ID: 1018222217",
+		"source": "Wikipedia",
+		"title": "Wikipedia:Be bold",
+		"title-short": "Wikipedia",
+		"URL": "https://en.wikipedia.org/w/index.php?title=Wikipedia:Be_bold&oldid=1018222217",
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					2
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					16
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/EZdJKrZL/items/2VY464MX",
+		"type": "article-journal",
+		"abstract": "Intrinsic and extrinsic types of motivation have been widely studied, and the distinction between them has shed important light on both developmental and educational practices. In this review we revisit the classic definitions of intrinsic and extrinsic motivation in light of contemporary research and theory. Intrinsic motivation remains an important construct, reflecting the natural human propensity to learn and assimilate. However, extrinsic motivation is argued to vary considerably in its relative autonomy and thus can either reflect external control or true self-regulation. The relations of both classes of motives to basic human needs for autonomy, competence and relatedness are discussed.",
+		"container-title": "Contemporary Educational Psychology",
+		"DOI": "10.1006/ceps.1999.1020",
+		"ISSN": "0361-476X",
+		"issue": "1",
+		"journalAbbreviation": "Contemporary Educational Psychology",
+		"language": "en",
+		"page": "54-67",
+		"source": "ScienceDirect",
+		"title": "Intrinsic and extrinsic motivations: Classic definitions and new directions",
+		"title-short": "Intrinsic and Extrinsic Motivations",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0361476X99910202",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Ryan",
+				"given": "Richard M."
+			},
+			{
+				"family": "Deci",
+				"given": "Edward L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					3
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2000",
+					1,
+					1
+				]
+			]
+		}
+	}
+]

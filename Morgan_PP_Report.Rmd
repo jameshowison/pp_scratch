@@ -1,0 +1,48 @@
+---
+title: 'Peer Production Experience Report: WikiProject Geology'
+output:
+  pdf_document: default
+bibliography: bibliography.json
+csl: apa.csl
+---
+
+Anne Morgan
+
+School of Information, University of Texas at Austin
+
+Peer Production
+
+Dr. James Howison
+
+May 4, 2021
+
+Note: Citations use APA style.
+
+### Introduction
+
+As part of a Peer Production course at the University of Texas at Austin, I participated in WikiProject Geology. The following is an experience report of my participation in the project. 
+
+### Tasks
+
+I focused my edits on six articles: Geology of the Dallas-Fort Worth Metroplex, Absolute dating, Jurassic, Geology of Texas, First appearance datum, and Historical geology. I also made a minor edit to the Geology template (fixed capitalization to eliminate a redirect) and made one contribution to the project talk page. The main tasks I undertook as part of the project were the following. First, I worked on expanding the Geology of Texas article: checking references, providing grammar and clarity edits, and adding new references and content. I made minor edits to the Geology of the Dallas-Fort Worth Metroplex article and added a few references. At this stage, I focused on Texas-related articles, using my access to the University of Texas Libraries to my advantage. I made grammar and clarity edits to the Absolute dating and Jurassic articles. In the case of the Jurassic article, I responded to a call for peer review posted on the project talk page. My edits to the First appearance datum and Historical geology articles were more substantial. I was unable to significantly expand the First appearance datum article, but added several references and worked on improving the content's grammar and clarity. My edits to the Historical geology article were significant, and I am planning on continuing to expand it. In addition to adding references and content, I modified the article's structure by creating new sections. My involvement with this article in particular was prompted by my interest in the subject matter.
+
+### Reviewing Work
+
+Wikipedia's injunction to "be bold" encapsulates the notion that good faith edits can be made independently, without prior review (for example, soliciting advice from other participants on a talk page) [@http://zotero.org/users/local/EZdJKrZL/items/525CG5NC]. To me, this was reassuring, and took some of the pressure off. I felt empowered to complete tasks spontaneously, according to my interest and ability.
+
+I did not find it easy or intuitive to get direct feedback on my contributions. After some deliberation, I posted on the project talk page, asking for input on the changes I had made to the First appearance datum article. In retrospect, my request may have been too broad, though I did ask two specific questions about adding content and linking to another Wikipedia page. On the other hand, it might have been more efficient for me to simply "be bold" and make my proposed changes. After posting on the talk page, I checked the First appearance datum revision history page and noticed that one editor had visited the article and made a minor change (linking to another Wikipedia page). However, this edit did not provide direct feedback or help answer my questions.
+
+### Other Projects
+
+I discovered two other projects that I became interested in: WikiProject Women and WikiProject Civil Rights Movement. While I continued working on WikiProject Geology, I also added my name to the participant lists for these two projects. I felt particularly motivated to contribute something to the Civil Rights Movement WikiProject, because it felt morally necessary to add whatever useful information I could. Accordingly, I added some content to the Lorraine Hansberry article and communicated with another editor. The editor had deleted a few of my references that he felt were redundant, but failed to notice that a range of pages within the reference were cited. After I pointed this out, he apologized, then added the correct range of pages to the remaining reference. I was glad to have a positive communication with another editor; our exchange was civil, and the editor welcomed me to Wikipedia after I told him that I was new. I found it somewhat difficult to avoid exploring other projects, but ultimately succeeded in concentrating my efforts on Wikiproject Geology.
+
+### Motivations
+
+My primary motivations for participating in this WikiProject Geology were fun and ideology, which tracks with the findings of previous research on Wikipedians' motivations [@http://zotero.org/users/local/EZdJKrZL/items/3IKEZI3A]. I enjoyed finding sources and contributing content. I also took pride in contributing to open access to knowledge and, after learning more about the Wikipedia editor gender gap, as a woman, I became more motivated to contribute [@http://zotero.org/users/local/EZdJKrZL/items/S2SKN2CS]. Finally, I felt motivated to contribute due to the requirements of the course. It seems, then, that I had a mix of intrinsic and extrinsic motivations to contribute [@http://zotero.org/users/local/EZdJKrZL/items/2VY464MX].
+
+### Conclusions
+
+I chose to contribute to WikiProject Geology because for some time now I have been interested in Wikipedia editing, but struggled to find sufficient time and motivation. This project provided a structured way for me to get involved with Wikipedia. Time still acted as a constraint. External pressures, including two part-time jobs, graduate coursework, an approaching graduation, and a job search, limited the time I was able to spend on Wikipedia contributions. However, I believe that my participation in this project was greater than it would have been if I had made my initial contributions outside of class.
+
+### References
+
