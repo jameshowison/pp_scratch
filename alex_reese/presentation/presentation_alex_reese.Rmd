@@ -1,0 +1,61 @@
+---
+title: "Community Participation: Standard Ebooks"
+author: "Alex Reese"
+date: "5/6/2021"
+output:   
+  slidy_presentation:
+    theme: cerulean
+---
+
+## The Standard Ebooks project
+
+![](images/se-homepage.png){width=75%}
+
+
+## Proposing the project
+
+- initiating contact, over-preparing
+  - approved 
+
+![](images/email-1.png){width=100%}
+
+## Getting to Work
+
+- structuring an epub ebook directory, creating structural divisions, adjusting typography, modernizing spelling, semantic markup, creating metadata 
+
+- Manual of Style
+
+- new contributor's guide:
+
+![](images/guide-1.png){width=57%} ![](images/guide-2.png){width=42%}
+
+
+## Resources & Communication
+
+
+- learned to search inside github repos
+
+![](images/github-search-1.png){width=60%} ![](images/github-search-2.png){width=39%}
+
+- **not** much contact/interaction with project leaders
+- by trying to "Ask questions the smart way," I did my homework first and found my answers
+
+## Proposing artwork
+
+- required proposal and approval
+- made a mistake, had to follow up wtih PD proof
+
+![](images/cover.svg){width=32%}  ![](images/pd-proof.png){width=65%}
+
+- *embarassed*!
+
+## Management and Task conception
+
+- benevolent dictatorship
+  - coordination or control?
+
+- structured, pre-defined tasks
+  - ebook production more like crowdsourcing than peer production? 
+  
+- credit and incentives
+
