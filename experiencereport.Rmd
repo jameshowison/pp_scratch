@@ -7,6 +7,7 @@ bibliography: refs.bib
 
 Over the past few weeks, I have been participating in and contributing to the Climate Change Wiki project. Prior to this project, I had never contributed to Wikipedia or any similar peer production groups. In this report, I will be outlining the highlights of my experience and what I learned as a new contributor to the project. 
 
+
 There were several things that drew me to this wiki project. The first was my personal interest in climate change and topics concerning the environment and sustainability. I felt that contributing would help me learn about important issues and concepts related to climate change. The next thing that made me choose this project was the extensive and well-organized project page which seemed very welcoming to new contributors. This page had a long description of the scope of the project, to-do lists, advice, tools, generic ongoing tasks, and style guides. It also included suggestions and steps for how to get started with easy edits. Looking at all guidance and specific instructions that were available, I felt much more confident than I did at first in getting started. The final factor for my choice was the interactions between the contributors that I noticed on the project’s talk page. It gave me the overall impression of a warm, welcoming, and encouraging environment. 
 
 # Getting started and acclimated to Wikipedia
